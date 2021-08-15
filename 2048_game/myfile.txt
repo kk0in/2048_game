@@ -1,0 +1,11 @@
+kyi FAIL move: 67 combo: 10 game time(ms): 1000 
+yisol FAIL move: 147 combo: 34 game time(ms): 1000 
+jun FAIL move: 82 combo: 20 game time(ms): 8640 
+sss FAIL move: 38 combo: 8 game time(ms): 1000 
+sssd FAIL move: 34 combo: 12 game time(ms): 1000 
+kkk FAIL move: 30 combo: 6 game time(ms): 1000 
+dsdf FAIL move: 37 combo: 6 game time(ms): 1000 
+fdgdfg FAIL move: 32 combo: 9 game time(ms): 1000 
+dd FAIL move: 80 combo: 17 game time(ms): 6860 
+dsadw FAIL move: 60 combo: 13 game time(ms): 5628 
+wasd FAIL move: 45 combo: 9 game time(ms): 4484 

@@ -1,0 +1,13 @@
+﻿  2017-14384.c
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(47,39): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(77,37): warning C4244: '=': 'DWORD'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(34,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(80,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(85,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(96,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(105,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(115,17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(117,18): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(143,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kyi88\source\repos\2017-14384\2017-14384.c(20,10): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  2017-14384.vcxproj -> C:\Users\kyi88\source\repos\2017-14384\Debug\2017-14384.exe
